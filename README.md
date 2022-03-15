@@ -1,5 +1,5 @@
-# Discordv13: Node.js
-__The new way of coding a Discord bot using Node.js and Discordv13__
+# Discordv13 & Nodev16 : Node.js
+__The new way of coding a Discord bot using Nodev16 and Discordv13__
 
 ❗ Follow the instructions properly for no problems to occur.
 
@@ -20,9 +20,6 @@ __The new way of coding a Discord bot using Node.js and Discordv13__
 
 **Step #5**: Carefully make changes in the file 'package.json' - check the images below
 > View [original](https://media.discordapp.net/attachments/936110116363710464/936948837656981564/unknown.png?width=880&height=506) and [changed](https://media.discordapp.net/attachments/936110116363710464/936949041143623680/unknown.png?width=900&height=506) images
-
-**Step 6**: Create a new file and name it '.replit' and put `run = "npm start"`
-> [image](https://media.discordapp.net/attachments/936110116363710464/936949619672363098/unknown.png)
 
 **Step 7**: Now lets start coding! Open the link below to open the code, just copy and paste it
 > [code is here](https://gist.github.com/seikocodes/4d31548e0d67f55d51de8a5470666bfc)
